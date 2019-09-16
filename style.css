@@ -19,3 +19,12 @@ body{
   background:white;
   width:420px;
 }
+
+.hero-2{
+  margin-top:10px;
+  color:white;
+  background-image:url(images/about.jpg);
+  height:100vh;
+  background-size:cover;
+  padding-top:5vh;
+}
