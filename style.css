@@ -28,3 +28,27 @@ body{
   background-size:cover;
   padding-top:5vh;
 }
+
+#about-me{
+width: 19rem;
+margin-left:8px;
+color:black;
+background:rgba(173, 5, 5, 0.1);
+}
+#skills{
+width:19rem;
+height:12rem;
+margin-top:10px;
+margin-left:8px;
+color:black;
+background:rgba(173, 5, 5, 0.1);
+}
+
+.btn{
+  margin-top: 2vh;
+  margin-left: 2vw;
+}
+
+.card-body{
+  background-color:rgba(204, 216, 228, 0.801);
+}
