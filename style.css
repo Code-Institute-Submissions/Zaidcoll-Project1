@@ -53,3 +53,17 @@ background:rgba(173, 5, 5, 0.1);
 .card-body{
   background-color:rgba(204, 216, 228, 0.801);
 }
+
+
+@media only screen and (min-width: 1200px) {
+  img{
+    filter:grayscale(100%);
+  }
+}
+
+img:hover{
+    filter:grayscale(0%);
+  }
+html {
+  scroll-behavior: smooth;
+}
