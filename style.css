@@ -67,3 +67,6 @@ img:hover{
 html {
   scroll-behavior: smooth;
 }
+.Headers{
+  margin-top 10px;
+}
